@@ -67,7 +67,7 @@ class WordCounter:
         end_time = time.time()
         execution_time = (end_time - start_time) * 1000  # Convert to milliseconds
         
-        if method == 1:
+        if method == "1":
             print(f"\nWaktu eksekusi menggunakan KMP: {execution_time:.2f} ms")
         else:
             print(f"\nWaktu eksekusi menggunakan BM: {execution_time:.2f} ms")
