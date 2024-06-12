@@ -26,6 +26,9 @@ Source Code Terkait Eksperimen Yang Dilakukan Dalam Makalah
    py main.py
    ```
 
+## Sumber Dokumen Pada Folder Test
+[Website Rinaldi Munir](https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Makalah2023.htm)
+
 ## Penulis
 Ahmad Rafi Maliki 13522137
 
